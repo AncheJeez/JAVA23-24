@@ -139,12 +139,18 @@ public class Empleado {
     }
     
     // iba a utilizar estas funciones, pero al final he usado un contador atomico
-    public static void esUltimo(){
-        ;
+    public static boolean esUltimo(){
+        if(actualEmpleado == null){
+            return true;
+        }else
+            return false;
     }
     
-    public static void esPrimero(){
-        ;
+    public static boolean esPrimero(){
+        if(actualEmpleado == inicialEmpleado)
+            return true;
+        else
+            return false;
     }
     
 
