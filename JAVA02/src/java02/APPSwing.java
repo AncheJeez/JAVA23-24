@@ -87,7 +87,7 @@ public class APPSwing extends JFrame{
         button3.setPreferredSize(buttonSize);
         
         // DAMOS UN LISTENER A CADA BOTON ADEMAS DE UNA KEY
-        button1.setMnemonic(KeyEvent.VK_S);
+        button1.setMnemonic(KeyEvent.VK_A);
         button1.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 if(!createState.get()){
@@ -126,7 +126,7 @@ public class APPSwing extends JFrame{
             }
         });
         
-        button2.setMnemonic(KeyEvent.VK_A);
+        button2.setMnemonic(KeyEvent.VK_S);
         button2.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 if(!createState.get()){
