@@ -20,6 +20,8 @@ public class Empleado {
     private static Empleado primerEmpleado = null;
     
     private static Empleado actualEmpleado = null;
+
+    private static Empleado inicialEmpleado = null;
     
     private Empleado siguienteEmpleado;
     
