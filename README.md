@@ -9,7 +9,7 @@ Interfaz usando java swing sin herramienta de IDE, pero el controlador y los dat
 
 JAVA03
 Interfaz usando java swing con herramienta de IDE, tiene clase Lista que incluye Nodo dentro.
-Muestra una serie de empleados creados, avanza, retrocede, añade, borra, modifica [POR HACER: y muestra con filtro fecha]
+Muestra una serie de empleados creados, avanza, retrocede, añade, borra, modifica
 
 JAVA04
 Interfaz usuario con java swing, listado de empleados de tipo abstracto con 2 clases heredadas: Programador, Analista.
