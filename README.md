@@ -1,6 +1,8 @@
 # JAVA23-24
 Repositorio de ejercicios de java DAWM 23/24
 
+Se ha incluido el .jar utilizado en NetBeans para la conexion a la base de datos.
+
 JAVA01
 Simple menu empleado en el terminal
 
